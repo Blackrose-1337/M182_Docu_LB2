@@ -1,0 +1,3 @@
+# Guacamole
+
+Guacamole ist eine Clientless Remote-Desktop-Gateway-Plattform. Es ermöglicht Benutzern den Zugriff auf ihre Desktops oder Server über einen Webbrowser, ohne dass zusätzliche Software auf dem Clientgerät installiert werden muss. Guacamole unterstützt verschiedene Remote-Desktop-Protokolle wie VNC, RDP und SSH. Es bietet eine benutzerfreundliche Oberfläche für die Verwaltung und den Zugriff auf entfernte Systeme von jedem Ort aus.

@@ -3,7 +3,7 @@
 ## Elasticsearch Setup:
 - Der öffentliche Schlüssel von Elasticsearch wird heruntergeladen und zu den apt-Schlüsseln hinzugefügt. 
 - Elasticsearch-Apt-Repository wird zur sources.list hinzugefügt. 
-- [Elasticsearch](elasticsearch_P1.md), [Kibana](kibana_P1.md), [Filebeat](filebeat_P1.md) und [Auditbeat](auditbeat_P1.md) werden installiert. 
+- [Elasticsearch](tech_daten/elasticsearch_P1.md), [Kibana](tech_daten/kibana_P1.md), [Filebeat](tech_daten/filebeat_P1.md) und [Auditbeat](tech_daten/auditbeat_P1.md) werden installiert. 
 - Ein Cron-Job für Elasticsearch Curator wird erstellt, um ältere Elasticsearch-Indizes zu löschen.
 
 ```bash

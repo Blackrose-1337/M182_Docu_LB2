@@ -1,0 +1,3 @@
+# Velociraptor
+
+Velociraptor ist eine Open-Source-Plattform für digitale Forensik und Incident Response (DFIR). Es ermöglicht Sicherheitsexperten, Informationen von Endpunkten zu sammeln, zu analysieren und zu visualisieren, um auf Sicherheitsvorfälle zu reagieren. Velociraptor unterstützt die Sammlung von Artefakten, die Durchführung von Forensikanalysen und die Automatisierung von Incident-Response-Aufgaben.

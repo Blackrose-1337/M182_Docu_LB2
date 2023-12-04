@@ -1,0 +1,3 @@
+# Zeek
+
+Zeek, ehemals als Bro bekannt, ist ein leistungsstarkes Netzwerküberwachungstool, das den Datenverkehr auf Netzwerken analysiert. Es ist darauf spezialisiert, Protokollinformationen zu extrahieren, Anomalien zu erkennen und umfassende Einblicke in den Netzwerkverkehr zu bieten. Zeek kann als IDS (Intrusion Detection System) und NSM (Network Security Monitor) eingesetzt werden, um Bedrohungen zu erkennen und Sicherheitsvorfälle zu analysieren.

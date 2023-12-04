@@ -6,10 +6,15 @@
 
 ## Installierte Software
 
-- Elasticsearch
-- Kibana
-- Filebeat
-- Auditbeat
+- [Fleet](tech_daten/fleet_P1.md) 
+- [Zeek](tech_daten/zeek_P1.md)
+- [Velociraptor](tech_daten/velociraptor_P1.md)
+- [Suricata](tech_daten/suricata_P1.md)
+- [Guacamole](tech_daten/guacamole_P1.md)
+- [Elasticsearch](tech_daten/elasticsearch_P1.md)
+- [Kibana](tech_daten/kibana_P1.md)
+- [Filebeat](tech_daten/filebeat_P1.md)
+- [Auditbeat](tech_daten/auditbeat_P1.md)
 
 ## Services
 
