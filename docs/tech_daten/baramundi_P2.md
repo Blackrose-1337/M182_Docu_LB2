@@ -33,3 +33,9 @@ Baramundi bietet eine integrierte Patch-Management-Lösung, die als Alternative 
 ## Skalierbarkeit:
 
    Baramundi ist darauf ausgelegt, den Bedürfnissen von Organisationen jeder Grösse gerecht zu werden, von kleinen Unternehmen bis hin zu grossen Unternehmensumgebungen.
+   
+## Benutzeroberfläche
+
+
+![Beispielbild von der Baramundi Benutzeroberfläche](bilder/baramundi1.png)
+![Beispielbild von der Baramundi Benutzeroberfläche](bilder/baramundi2.png)

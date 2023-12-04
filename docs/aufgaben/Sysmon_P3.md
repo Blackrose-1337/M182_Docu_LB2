@@ -12,9 +12,9 @@ Jede/r Lernende:
 
 Recherche - Sysmon 0-4P:
 
-    Was ist Sysmon? Wofür wird es verwendet
-    Was ist die aktuellste Version von Sysmon?
-    Was sind Beispiel-Anwendungen/Use-Cases bei welchen Sysmon helfen kann?
+- Was ist Sysmon? Wofür wird es verwendet [Sysmon](tech_daten/sysmon_P3.md)
+- Was ist die aktuellste Version von Sysmon? [Sysmon](tech_daten/sysmon_P3.md)
+- Was sind Beispiel-Anwendungen/Use-Cases bei welchen Sysmon helfen kann? [Sysmon](tech_daten/sysmon_P3.md)
 
 Wichtig
 
@@ -22,8 +22,8 @@ Auf Ihrem System wurde Sysmon bereits installiert und konfiguriert (Best-Practic
 
 Installation - Sysmon 0-4P:
 
-    Recherchieren und dokumentieren Sie wie man Sysmon manuell auf einem Windows-Server/Client installieren würde
-    Recherchieren und dokumentieren Sie wie Sysmon auf Ihren Systemen (automatisiert) installiert wurde
+- Recherchieren und dokumentieren Sie wie man Sysmon manuell auf einem Windows-Server/Client installieren würde [Sysmon Installation](tech_daten/sysmonInstallation_P3.md)
+- Recherchieren und dokumentieren Sie wie Sysmon auf Ihren Systemen (automatisiert) installiert wurde [Sysmon Installation](tech_daten/sysmonInstallation_P3.md)
 
 Konfiguration - Sysmon 0-4P:
 
