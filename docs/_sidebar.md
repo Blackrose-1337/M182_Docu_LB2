@@ -18,7 +18,8 @@
       * [Windows VM's P1](tech_daten/WindowsVMs.md)
     * [WSUS P2]
       * [Baramundi P2](tech_daten/baramundi_P2.md)
-      * [Powershell Cmdlets](tech_daten/powershellCMD_P2.md)
-      * [Update-Prozess mittels GPOs](tech_daten/dokumentationGPO_P2.md)
-      * [WSUS Dienst](tech_daten/wsusDienst_P2.md)
+      * [Powershell Cmdlets P2](tech_daten/powershellCMD_P2.md)
+      * [Update-Prozess mittels GPOs P2](tech_daten/dokumentationGPO_P2.md)
+      * [WSUS Dienst P2](tech_daten/wsusDienst_P2.md)
+    * [Sysmon P3]
     

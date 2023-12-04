@@ -13,17 +13,17 @@ Installieren Sie nach bestehender Anleitung (oder Ihrem Wissen) den WSUS-Service
 
 Recherche, allgemein - WSUS 0-4P:
 
-- Wofür wird der WSUS-Dienst verwendet [WSUS-Dienst](../tech_daten/wsusDienst_P2.md)
-- Welche Alternativen gibt es für den WSUS-Dienst [Baramundi](../tech_daten/baramundi_P2.md)
+- Wofür wird der WSUS-Dienst verwendet [WSUS-Dienst](tech_daten/wsusDienst_P2.md)
+- Welche Alternativen gibt es für den WSUS-Dienst [Baramundi](tech_daten/baramundi_P2.md)
 
 Recherche, Powershell Server - WSUS 0-4P:
 
-- Welche Powershell-Cmdlets gibt es, um den WSUS-Dienst zu konfigurieren/steuern [Powershell Cmdlets](../tech_daten/powershellCMD_P2.md)
+- Welche Powershell-Cmdlets gibt es, um den WSUS-Dienst zu konfigurieren/steuern [Powershell Cmdlets](tech_daten/powershellCMD_P2.md)
 
 **Installation Client - WSUS 0-4P: **
 
-- Dokumenation der Konfiguration um den Update-Prozess mittels GPOs zu steuern [Dokumentation GPO Konfiguration](../tech_daten/dokumentationGPO_P2.md)
-- Welche Powershell-Cmdlets gibt es, um den WSUS-Client zu konfigurieren/steuern [Powershell Cmdlets](../tech_daten/powershellCMD_P2.md)
+- Dokumenation der Konfiguration um den Update-Prozess mittels GPOs zu steuern [Dokumentation GPO Konfiguration](tech_daten/dokumentationGPO_P2.md)
+- Welche Powershell-Cmdlets gibt es, um den WSUS-Client zu konfigurieren/steuern [Powershell Cmdlets](tech_daten/powershellCMD_P2.md)
 
 **Testing und Reporting - WSUS 0-4P: **
 
