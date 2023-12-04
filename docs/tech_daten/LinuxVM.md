@@ -1,7 +1,17 @@
 # Linux VM (Logger)
 
-## Services
+## Login
+- User: vagrant
+- Password: vagrant
 
+## Installierte Software
+
+- Elasticsearch
+- Kibana
+- Filebeat
+- Auditbeat
+
+## Services
 
 | Service                                                                                   | Status  |
 |-------------------------------------------------------------------------------------------|---------|

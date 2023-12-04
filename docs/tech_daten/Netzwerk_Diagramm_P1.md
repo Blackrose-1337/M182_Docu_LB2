@@ -21,6 +21,7 @@ class VM3LinuxLogger {
 }
 
 class InternalNetwork {
+    Gateway: 10.0.2.2
 }
 
 class NatNetwork {

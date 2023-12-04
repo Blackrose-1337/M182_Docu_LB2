@@ -2,6 +2,10 @@
 
 ## Windows Domain Controller
 
+### Login
+- User: vagrant
+- Password: vagrant
+
 ### Installierte Programme
 
     - Google Chrome
@@ -12,6 +16,10 @@
     - Browser Default Internet Explorer!
 
 ## Windows 10 Client
+
+### Login
+- User: vagrant
+- Password: vagrant
 
 ### Installierte Programme
 
