@@ -1,57 +1,49 @@
-# 1. LB2 - Infrastruktur aufbauen/verstehen und dokumentieren (10%)
+# 1. LB2 - Allgemeine Informationen#
 
-## 1.1 Bewertungskriterien in der Dokumentation#
+Bei der Aufgabenstellung für die LB2 orientieren wir uns an Best Practices für MS Windows-Umgebungen. Sie besteht im Wesentlichen aus der Dokumentation aus einer bestehenden Umgebung der Konfiguration von bestehenden Softwarekomponenten. Wir versuchen damit die reine Installationszeit zu reduzieren und den Erkenntnisgewinn zu maximieren.
 
-Infrastruktur-Lab 0-4P:
+Wir arbeiten während der gesamten Projektzeit mit einem vorgegebenen Labor. Dieses Lab implementiert Best-Practices im Umgang mit Sicherheitskonfigurationen von MS-Windows. Dabei orientiert sich die Installation möglichst an den bereits bestehenden Bordmitteln von MS Windows, was für Ihre Praxisrelevanz gut ist.
 
-    - Netzwerk-Diagramm mit IP-Adressen der VMs
-    - Beschreibung der beiden Windows-VMs:
-        - Login
-        - Installierte Dienste ("Welche Software wurde auf der VM installiert?")
-        - Zugriffe auf die Applikationen ("Wie greife ich auf die verschiedenen Softwaren zu?")
-    - Beschreibung der ELK-VM
-        - Login
-        - Installierte Software ("Welche Software wurde auf der VM installiert?")
-        - Zugriffe auf die Applikationen ("Wie greife ich auf die verschiedenen Softwaren zu?")
+## 1.1 Ablauf LB2#
 
-Infrastruktur-Setup 0-4P:
+Der Ablauf der LB2 besteht aus den folgenden Schritten:
 
-    - Sinn und Zweck des Vagrantfile
-    - Sinn und Zweck Provisioning-Befehle
-    - Liste aller Scripts für die Windows-Images die bei einer Installation ausgeführt werden
-    - Beschreibung des bootstrap.sh-Files für das Aufsetzen der Logger-VM
-    - Beschreibung des ELK.sh-Files für das Aufsetzen der Logger-VM
+ - Infrastruktur aufbauen/verstehen und dokumentieren (10%) [P1_Aufgabenstellung](aufgaben/Infrastruktur_P1.md)
+ - Installation und Konfiguration von WSUS (und Active Directory) (20%) [P2_Aufgabenstellung](aufgaben/WSUS_P2.md)
+ - Beschreibung der Software Sysmon (15%) [P3_Aufgabenstellung](aufgaben/Infrastruktur_P1.md)
+ - Beschreibung der Software OSQuery (10%)
+ - Installation Winlogbeat (15%)
+ - Security Dashboards ELK (15%)
+ - Fleet Osquery Testing (15%)
 
-## 1.2 Vorbereitungen#
+### 1.1.1 Bewertungen#
 
-Die Lehrpersonen verteilt Ihnen 3(!) VMs. Damit diese VMs miteinander kommunizieren können, müssen bei den VMs die Netzwerk-Adapter etwas speziell konfiguriert werden.
+Sie erhalten pro 5%-Punkte ein Bewertungskriterium - welches wiederum mit dem Wertebereich 0 - 4 bewertet wird. Dies ergibt für die gesamte Arbeit eine totale Punktezahl von 80P.
+## 1.2 Vorgaben - LB2#
 
-Wir verwenden eine etwas abgewandelte Version von diesem Repository - die (angepasste) Installation finden Sie hier
+Gewichtung:
+33%
+Richtzeit (Empfehlung):
+6
+Element-Beschreibung:
+Der Bewertung einer Arbeit, welche die Installation und Konfiguration eines komplexeren Sicherheitssystems dokumentiert.
+Hilfsmittel Virtuelle:
+Server- und Clientumgebung, Antimalwaresoftware
+Bewertung:
+Bewertungsraster mit Punkten und linearen Umrechnung in Noten nach der Formel: Punkte*5/Maximalpunktezahl + 1
 
-Interface 1:
-Besitzt einen Standardgateway und ist über NAT angeschlossen
-Interface 2:
-Ist ein Host-Only Network und besitzt keinen Gateway
+    Sicherheitskonfiguration: 50-60 % der Gesamtpunktzahl
+    Updates: 10-20 % der Gesamtpunktzahl
+    Dokumentation der Testergebnisse: 20-30 % der Gesamtpunktzahl
 
-## 1.3 Aufträge#
+## 1.3 Bemerkung (das Kleingedruckte)#
 
-Schritt 1 : Installation der Boxen
+Wichtig
 
-    - Kopieren Sie die VMs auf Ihren Laptop
-    - Starten Sie die VMs (je nach Laptop: nacheinander)
-    - Kontrollieren Sie Netzwerk-Konnektivität
+Ich erlaube mir von Zeit zu Zeit die Installation von Ihnen zu überprüfen und die Funktionalität schriftlich festzuhalten - diese Feststellungen fliessen in die Bewertung ein (<- "Ich will irgendwann, irgendwie etwas Laufendes bei Ihnen sehen")
 
-Schritt 2 : Recherche (Vagrant / Vagrantfile)
 
-    - Informieren Sie sich zum Produkt Vagrant und Konfigurationsdatei Vagrantfile
-    - Lesen und interpretieren Sie das Vagrantfile für das Detection-LAB, ELK-Version
 
-**Beispielfragen die Sie danach verstehen sollten: **
 
-    - Wie kommt es das ELK auf der Logger-VM installiert wird?
-    - Wie kommt es das auf dem DC eine Domäne installiert wird?
-    ...
 
-Schritt 3 : Beschreibung der Infrastruktur
 
-Beschreiben und dokumentieren Sie, nach den gegebenen Kriterien, die resultierende Umgebung.
