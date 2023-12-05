@@ -36,5 +36,5 @@ Baramundi bietet eine integrierte Patch-Management-Lösung, die als Alternative 
    
 ## Benutzeroberfläche
 
-![Beispielbild von der Baramundi Benutzeroberfläche](Bilder/baramundi1.png)
-![Beispielbild von der Baramundi Benutzeroberfläche](Bilder/baramundi2.png)
+![Beispielbild von der Baramundi Benutzeroberfläche](bilder/baramundi1.png)
+![Beispielbild von der Baramundi Benutzeroberfläche](bilder/baramundi2.png)
