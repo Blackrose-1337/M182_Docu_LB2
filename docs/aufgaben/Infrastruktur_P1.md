@@ -19,7 +19,7 @@ Infrastruktur-Setup 0-4P:
 - Sinn und Zweck des Vagrantfile [Vagrant Dokumentation](tech_daten/Vagrant_P1.md)
 - Sinn und Zweck Provisioning-Befehle [Vagrant Dokumentation](tech_daten/Vagrant_P1.md)
 - Liste aller Scripts für die Windows-Images die bei einer Installation ausgeführt werden [Skript Liste](tech_daten/skripts_P1.md)
-- Beschreibung des bootstrap.sh-Files für das Aufsetzen der Logger-VM [Bootstrap Skript](ech_daten/bootstrap_P1.md)
+- Beschreibung des bootstrap.sh-Files für das Aufsetzen der Logger-VM [Bootstrap Skript](tech_daten/bootstrap_P1.md)
 - Beschreibung des ELK.sh-Files für das Aufsetzen der Logger-VM [ELK Skript](tech_daten/elk_P1.md)
 
 ## 1.2 Vorbereitungen#
