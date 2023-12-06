@@ -11,7 +11,7 @@ Der Ablauf der LB2 besteht aus den folgenden Schritten:
  - Infrastruktur aufbauen/verstehen und dokumentieren (10%) [P1_Aufgabenstellung](aufgaben/Infrastruktur_P1.md)
  - Installation und Konfiguration von WSUS (und Active Directory) (20%) [P2_Aufgabenstellung](aufgaben/WSUS_P2.md)
  - Beschreibung der Software Sysmon (15%) [P3_Aufgabenstellung](aufgaben/Sysmon_P3.md)
- - Beschreibung der Software OSQuery (10%)
+ - Beschreibung der Software OSQuery (10%) [P4 Aufgabenstellung](aufgaben/OSQuery_P4.md)
  - Installation Winlogbeat (15%)
  - Security Dashboards ELK (15%)
  - Fleet Osquery Testing (15%)

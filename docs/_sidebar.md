@@ -22,4 +22,10 @@
       * [Update-Prozess mittels GPOs P2](tech_daten/dokumentationGPO_P2.md)
       * [WSUS Dienst P2](tech_daten/wsusDienst_P2.md)
     * [Sysmon P3]
+      * [Sysmon P3](tech_daten/sysmon_P3.md)
+      * [Sysmon Config P3](tech_daten/sysmonConf_P3.md)
+      * [Sysmon Installation P3](tech_daten/sysmonInstallation_P3.md)
+    * [OSQuery P4]
+      * [OSQuery P4](tech_daten/osQuery_P4.md)
+      * [OSQuery Config P4](tech_daten/osQueryConfig_P4.md)
     
