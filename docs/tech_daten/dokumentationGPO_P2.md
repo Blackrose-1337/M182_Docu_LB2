@@ -10,12 +10,14 @@ Die Konfiguration von Windows Update über Gruppenrichtlinien (Group Policy Obje
 
 ## Konfigurieren der WSUS-Einstellungen:
 
-   Navigieren Sie zu: "Computerkonfiguration" > "Richtlinien" > "Administrative Vorlagen" > "Windows-Komponenten" > "Windows Update".
+   Navigieren zu: "Computerkonfiguration" > "Richtlinien" > "Administrative Vorlagen" > "Windows-Komponenten" > "Windows Update".
 
-   Konfigurieren Sie die folgenden Einstellungen:
+   Konfigurieren der folgenden Einstellungen:
    "Automatische Updates konfigurieren" auf "Aktiviert" setzen.
    "Benutzer zur Installation von Updates auffordern" auf "Automatisch herunterladen und geplante Installation" setzen.
    "WSUS-Server angeben" auf "Aktiviert" setzen und den Servernamen und den Port des WSUS-Servers angeben (z.B., http://WSUSServerName:8530).
+
+![GPO Liste mit den aktivierten rechten](../bilder/gpo.jpg)
 
 ## Konfigurieren der Update-Planung:
 
@@ -40,3 +42,12 @@ Die Konfiguration von Windows Update über Gruppenrichtlinien (Group Policy Obje
    Führen Sie auf den Client-Computern gpupdate /force aus oder warten Sie auf die automatische Aktualisierung der Gruppenrichtlinien.
 
 Nachdem diese Schritte durchgeführt wurden, sollten die betroffenen Computer ihre Updates vom WSUS-Server gemäss den konfigurierten Richtlinien empfangen. Stellen Sie sicher, dass die Firewall-Einstellungen auf den Clients und dem WSUS-Server entsprechend konfiguriert sind, um die Kommunikation zu ermöglichen.
+
+## Zusatznotiz
+
+Ich habe leider keinen Computer unter dem WSUS-Dienst, obwohl sich der Client in der Domäne befindet. Auch nach dem Entfernen des Clients und erneutem Einbinden hatte ich keinen Erfolg.
+
+![Leere Computerliste im WSUS-Dienst](../bilder/gpo2.jpg)
+
+>[!NOTE]
+> Mit Herrn Inauen besprochen nicht weiter zu verfolgen, falls nach erneutem Hinzufügen in die Domäne immer noch nicht im WSUS-Dienst auffindbar.

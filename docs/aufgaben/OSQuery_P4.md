@@ -14,7 +14,7 @@ Damit Sie mittels Osquery die Daten der Windows-VMs auslesen können, müssen di
 
 Idealerweise sollten Sie nach dem Login auf http://192.168.56.105:8412 eigentlich die folgende View sehen:
 
-![Bild von Fleet Oberflächte](../bilder/fleet.1jpg.jpg)
+![Bild von Fleet Oberflächte](../bilder/fleet1.jpg)
 Kein Host ersichtlich?
 
 Sollten Sie keinen Host sehen, hat die Registierung nicht funktioniert und Sie müssen die folgenden Schritte durchführen.
@@ -48,5 +48,5 @@ Auf Ihrem System wurde OSQuery bereits installiert und konfiguriert (Best-Practi
 
 - Dokumentieren Sie das Config-File welches auf Ihrem System für OSQuery installiert ist [OSQuery Config-File](tech_daten/osQueryConfig_P4.md)
 - Dokumentieren Sie die Struktur des Config-Files [OSQuery Config-File](tech_daten/osQueryConfig_P4.md)
-- Führen Sie einen ersten Test mittels OSquery durch und dokumentieren Sie das Resultat
+- Führen Sie einen ersten Test mittels OSquery durch und dokumentieren Sie das Resultat [OSQuery Testen](tech_daten/osQueryTesten.md)
 
