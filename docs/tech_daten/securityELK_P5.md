@@ -13,7 +13,7 @@ Die Regel definiert die Kriterien oder Voraussetzungen, unter denen sie aktivier
 
 
 - **Massnahmen**:  
-Wenn die Kriterien erfüllt sind, legt die Regel fest, welche Maßnahmen ergriffen werden sollen. Dies kann das Generieren von Warnmeldungen, das Auslösen von Alarmen, das Protokollieren von Ereignissen, das Blockieren von Verbindungen und andere Aktionen umfassen.
+Wenn die Kriterien erfüllt sind, legt die Regel fest, welche Massnahmen ergriffen werden sollen. Dies kann das Generieren von Warnmeldungen, das Auslösen von Alarmen, das Protokollieren von Ereignissen, das Blockieren von Verbindungen und andere Aktionen umfassen.
 
 
 - **Ausnahmen**:  
@@ -25,5 +25,5 @@ Einige Regeln können auf einen bestimmten Zeitraum begrenzt sein. Das bedeutet,
 
 
 - **Prüfung und Validierung**:  
-Sicherheitsregeln müssen getestet und validiert werden, um sicherzustellen, dass sie ordnungsgemäß funktionieren. Dies kann durch die Simulation von Ereignissen oder das Testen in einer Sandbox-Umgebung erfolgen.
+Sicherheitsregeln müssen getestet und validiert werden, um sicherzustellen, dass sie ordnungsgemäss funktionieren. Dies kann durch die Simulation von Ereignissen oder das Testen in einer Sandbox-Umgebung erfolgen.
 

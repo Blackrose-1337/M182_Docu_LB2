@@ -5,7 +5,7 @@
 ### Installation
 Zweck: Installiert osquery auf dem Host
 >[!NOTE]
->Hinweis: Standardmäßig wird osquery so konfiguriert, dass es eine Verbindung zum Fleet-Server auf dem Host "logger" über TLS herstellt.
+>Hinweis: Standardmässig wird osquery so konfiguriert, dass es eine Verbindung zum Fleet-Server auf dem Host "logger" über TLS herstellt.
 
 ````bash
 Write-Host "$('[{0:HH:mm}]' -f (Get-Date)) Installiere osquery..."

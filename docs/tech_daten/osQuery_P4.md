@@ -22,4 +22,4 @@ OSQuery ermöglicht es, Informationen über installierte Software, laufende Proz
 OSQuery kann dazu verwendet werden, sicherzustellen, dass Systeme den Compliance-Anforderungen entsprechen, indem es Konfigurationen überwacht und sicherstellt, dass Sicherheitsrichtlinien eingehalten werden.
 
 ### Forensik und Incident Response:
-Bei der Untersuchung von Sicherheitsvorfällen kann OSQuery dazu beitragen, detaillierte Informationen darüber zu liefern, was auf einem System passiert ist, um die Ursache von Vorfällen zu identifizieren und Gegenmaßnahmen zu ergreifen.
+Bei der Untersuchung von Sicherheitsvorfällen kann OSQuery dazu beitragen, detaillierte Informationen darüber zu liefern, was auf einem System passiert ist, um die Ursache von Vorfällen zu identifizieren und Gegenmassnahmen zu ergreifen.
