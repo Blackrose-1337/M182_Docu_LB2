@@ -27,7 +27,10 @@ Abfrage aller Schnittstellen den abgefragten Rechner
 Code:
 
 ````sql
-SELECT a.interface, a.address, d.mac FROM interface_addresses a JOIN interface_details d USING (interface);
+SELECT a.interface, a.address, d.mac 
+FROM interface_addresses a 
+JOIN interface_details d 
+USING (interface);
 ````
 
 Schöne Abfrage aller Dienste
@@ -39,7 +42,8 @@ Man kann sich den Report auch einfach herunterladen als CSV und schnell irgendwo
 Code:
 
 ````sql
-SELECT * FROM services WHERE start_type='DEMAND_START' OR start_type='AUTO_START';
+SELECT * FROM services 
+         WHERE start_type='DEMAND_START' OR start_type='AUTO_START';
 ````
 
 Ein Teil der Auflistung der CSV-Datei
@@ -61,6 +65,8 @@ Ein Teil der Auflistung der CSV-Datei
 Ausgabe installierter Programme
 
 ![Resultat der Abfrage](../bilder/fleet7.jpg)
+
+Code:
 
 ````sql
 SELECT name, version, install_location

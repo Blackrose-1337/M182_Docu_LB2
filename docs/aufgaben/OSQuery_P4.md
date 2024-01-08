@@ -1,6 +1,6 @@
-# LB2 - Beschreibung der Software OSQuery (10%)#
+# LB2 - Beschreibung der Software OSQuery (10%)
 
-## 1.1 Lernziele#
+## 1.1 Lernziele OSQuery#
 
 Jede/r Lernende:
 
@@ -8,7 +8,7 @@ Jede/r Lernende:
     ...kann OSQuery nach Vorgaben konfigurieren
     ...kann OSQuery anwenden (erste Tests durchführen)
 
-## 1.2 Registierung der Clients anstossen#
+## 1.2 Registierung der Clients anstossen OSQuery#
 
 Damit Sie mittels Osquery die Daten der Windows-VMs auslesen können, müssen die Geräte bei der Software Fleet registriert werden. Dies "sollte" eigentlich im normalen Bootup-Prozess der VMs geschehen sein...das ist allerdings kompliziert und aufgrund von verschiedenen Zertifikaten erfahrungsgemäss ziemlich fehleranfällig.
 
@@ -19,7 +19,7 @@ Kein Host ersichtlich?
 
 Sollten Sie keinen Host sehen, hat die Registierung nicht funktioniert und Sie müssen die folgenden Schritte durchführen.
 
-### 1.2.1 Nochmals initialisieren#
+### 1.2.1 Nochmals initialisieren OSQuery#
 
 - Stoppen Sie den osquery-Dienst auf Ihrer Windows-VM
 - Öffnen Sie in der Windows VM die Webseite von Fleet https://192.168.56.105:8412/ und klicken Sie auf Add host
@@ -32,7 +32,7 @@ Sollten Sie keinen Host sehen, hat die Registierung nicht funktioniert und Sie m
 
 - Führen Sie jetzt diese Schritte auf beiden VMs durch - Achtung: Dieser Osqueryd-Befehl muss in einer Konsole laufen, damit Sie mit Osquery arbeiten können
 
-## 1.3 Aufträge und Bewertungskriterien#
+## 1.3 Aufträge und Bewertungskriterien OSQuery#
 
 **Recherche - OSQuery 0-4P: **
 

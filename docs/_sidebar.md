@@ -3,6 +3,8 @@
     * [Infrastruktur P1](aufgaben/Infrastruktur_P1.md)
     * [WSUS P2](aufgaben/WSUS_P2.md)
     * [Sysmon P3](aufgaben/Sysmon_P3.md)
+    * [OSQuery P4](aufgaben/OSQuery_P4.md)
+    * [Fleet_P4](aufgaben/Fleet_P4.md)
   * [Tech. Daten]
     * [Infrastruktur P1]
       * [Auditbeat P1](tech_daten/auditbeat_P1.md)
@@ -28,4 +30,8 @@
     * [OSQuery P4]
       * [OSQuery P4](tech_daten/osQuery_P4.md)
       * [OSQuery Config P4](tech_daten/osQueryConfig_P4.md)
+    * [Fleet P4]
+      * [Fleet P4](tech_daten/fleet_P1.md)
+    * [WinlogBeat P5]
+    * [SecurityELK P5]
     
