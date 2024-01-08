@@ -4,9 +4,11 @@
     * [WSUS P2](aufgaben/WSUS_P2.md)
     * [Sysmon P3](aufgaben/Sysmon_P3.md)
     * [OSQuery P4](aufgaben/OSQuery_P4.md)
-    * [Fleet_P4](aufgaben/Fleet_P4.md)
-  * [Tech. Daten]
-    * [Infrastruktur P1]
+    * [Fleet P4](aufgaben/Fleet_P4.md)
+    * [Winlogbeat P5](aufgaben/WinlogBeat_P5.md)
+    * [Security Dashboards ELK](aufgaben/SecurityELK_P5.md)
+  * **[Tech. Daten]**
+    * **[Infrastruktur P1]**
       * [Auditbeat P1](tech_daten/auditbeat_P1.md)
       * [Bootstrap P1](tech_daten/bootstrap_P1.md)
       * [Elasticsearch P1](tech_daten/elasticsearch_P1.md)
@@ -18,20 +20,25 @@
       * [Skripts P1](tech_daten/skripts_P1.md)
       * [Vagrant P1](tech_daten/Vagrant_P1.md)
       * [Windows VM's P1](tech_daten/WindowsVMs.md)
-    * [WSUS P2]
+    * **[WSUS P2]**
       * [Baramundi P2](tech_daten/baramundi_P2.md)
       * [Powershell Cmdlets P2](tech_daten/powershellCMD_P2.md)
       * [Update-Prozess mittels GPOs P2](tech_daten/dokumentationGPO_P2.md)
       * [WSUS Dienst P2](tech_daten/wsusDienst_P2.md)
-    * [Sysmon P3]
+    * **[Sysmon P3]**
       * [Sysmon P3](tech_daten/sysmon_P3.md)
       * [Sysmon Config P3](tech_daten/sysmonConf_P3.md)
       * [Sysmon Installation P3](tech_daten/sysmonInstallation_P3.md)
-    * [OSQuery P4]
+    * **[OSQuery P4]**
       * [OSQuery P4](tech_daten/osQuery_P4.md)
       * [OSQuery Config P4](tech_daten/osQueryConfig_P4.md)
-    * [Fleet P4]
+      * [OSQuery Testing P4](tech_daten/osQueryTesten_P4.md)
+    * **[Fleet P4]**
       * [Fleet P4](tech_daten/fleet_P1.md)
-    * [WinlogBeat P5]
-    * [SecurityELK P5]
+    
+    * **[WinlogBeat P5]**
+      * [WinlogBeat P5](tech_daten/winlogBeat_P5.md)
+      * [WinlogBeat Installation P5](tech_daten/winlogBeatInstallation_P5.md)
+    * **[SecurityELK P5]**
+      * [SecurityELK P5](tech_daten/securityELK_P5.md)
     
