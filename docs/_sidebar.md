@@ -41,4 +41,5 @@
       * [WinlogBeat Installation P5](tech_daten/winlogBeatInstallation_P5.md)
     * **[SecurityELK P5]**
       * [SecurityELK P5](tech_daten/securityELK_P5.md)
+      * [SecurityELK Testing P5](tech_daten/securityELKTesting_P5.md)
     
