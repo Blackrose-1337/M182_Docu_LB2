@@ -19,5 +19,5 @@ Unter dem [Link](192.168.56.105:5601/app/security/rules) (geht nur innerhalb der
 
 ### 1.3.2 Testing und Doku 0-8P:
 
-- Suchen Sie sich ein Beispiel aus der Liste aus und dokumentieren Sie das Beispiel konkret (mit Printscreens) [Security Beispiel]()
-- Versuchen (und dokumentieren Sie den Versuch!) einen Alert für Ihre Rule zu generieren (mit Printscreens)
+- Suchen Sie sich ein Beispiel aus der Liste aus und dokumentieren Sie das Beispiel konkret (mit Printscreens) [Security Beispiel](tech_daten/securityELKTesting_P5.md)
+- Versuchen (und dokumentieren Sie den Versuch!) einen Alert für Ihre Rule zu generieren (mit Printscreens) [Security Beispiel](tech_daten/securityELKTesting_P5.md)

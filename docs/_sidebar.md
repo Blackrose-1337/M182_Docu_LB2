@@ -6,7 +6,7 @@
     * [OSQuery P4](aufgaben/OSQuery_P4.md)
     * [Fleet P4](aufgaben/Fleet_P4.md)
     * [Winlogbeat P5](aufgaben/WinlogBeat_P5.md)
-    * [Security Dashboards ELK](aufgaben/SecurityELK_P5.md)
+    * [Security Dashboards ELK P5](aufgaben/SecurityELK_P5.md)
   * **[Tech. Daten]**
     * **[Infrastruktur P1]**
       * [Auditbeat P1](tech_daten/auditbeat_P1.md)

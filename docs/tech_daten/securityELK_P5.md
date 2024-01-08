@@ -21,5 +21,3 @@ Die Sicherheitsregeln in einem Security Information and Event Management (SIEM)-
 
 - **Prüfung und Validierung**: Sicherheitsregeln müssen getestet und validiert werden, um sicherzustellen, dass sie ordnungsgemäß funktionieren. Dies kann durch die Simulation von Ereignissen oder das Testen in einer Sandbox-Umgebung erfolgen.
 
-
-## Testing & Doku
