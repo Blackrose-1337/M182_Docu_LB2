@@ -31,8 +31,8 @@ Konfiguration - Sysmon 0-4P:
   - [Teil 1](https://medium.com/@olafhartong/endpoint-detection-superpowers-on-the-cheap-part-1-e9c28201ac47) 
   - [Teil 2](https://medium.com/@olafhartong/endpoint-detection-superpowers-on-the-cheap-part-2-deploy-and-maintain-d06580329fe8) 
   - [Teil 3](https://medium.com/@olafhartong/endpoint-detection-superpowers-on-the-cheap-part-3-sysmon-tampering-49c2dc9bf6d9)
-- Dokumentieren Sie das Config-File welches auf Ihrem System für Sysmon installiert ist [Sysmon XMl Config](tech_daten/sysmonConf.md)
-- Dokumentieren Sie die Struktur des Config-Files [Sysmon XMl Config](tech_daten/sysmonConf.md)
+- Dokumentieren Sie das Config-File welches auf Ihrem System für Sysmon installiert ist [Sysmon XMl Config](tech_daten/sysmonConf_P3.md)
+- Dokumentieren Sie die Struktur des Config-Files [Sysmon XMl Config](tech_daten/sysmonConf_P3.md)
 
 Quellen
 

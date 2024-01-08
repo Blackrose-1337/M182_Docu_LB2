@@ -20,11 +20,14 @@ Unter **Hosts** weiteren Rechner hinzufügen
 
 ## Querys
 
-Abfrage aller Schnittstellen den abgefragten Rechner
+Hier werden zwei Querys verwendet getestet, dabei wird einerseits die Ausgabe des Tests festgehalten, wie auch der Code der verwendet wurde.
+
+### Testing 1
+**Ziel**: Abfrage aller Schnittstellen den abgefragten Rechner
 
 ![Report des Queries](../bilder/fleet5.jpg)
 
-Code:
+**Code**:
 
 ````sql
 SELECT a.interface, a.address, d.mac 
@@ -33,13 +36,15 @@ JOIN interface_details d
 USING (interface);
 ````
 
-Schöne Abfrage aller Dienste
+### Testing 2
+
+**Ziel**: Eine Abfrage aller Dienste auf den jeweilig ausgewählten Rechnern die mit dem System verbunden sind.
 
 Man kann sich den Report auch einfach herunterladen als CSV und schnell irgendwo anders einbinden.
 
 ![Report des Queries mit dem Hinweis zum Download-Button](../bilder/fleet6.jpg)
 
-Code:
+**Code**:
 
 ````sql
 SELECT * FROM services 
@@ -62,11 +67,14 @@ Ein Teil der Auflistung der CSV-Datei
 | WIN10                                       | Manages audio devices for the Windows Audio service. If this service is stopped, audio devices and effects will not function properly. If this service is disabled, any services that explicitly depend on it will fail to start | Windows Audio Endpoint Builder               | C:\Windows\System32\AudioEndpointBuilder.dll | AudioEndpointBuilder                            | C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted -p | 1136 | 0                 | SHARE_PROCESS    | AUTO_START      | RUNNING  | LocalSystem                        | 0               |
 | WIN10                                       | Manages audio for Windows-based programs. If this service is stopped, audio devices and effects will not function properly. If this service is disabled, any services that explicitly depend on it will fail to start | Windows Audio                               | C:\Windows\System32\Audiosrv.dll             | Audiosrv                                       | C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p | 1992 |
 
-Ausgabe installierter Programme
+
+### Testing 3
+
+**Ziel:** Ausgabe der installierter Programme auf den ausgewählten Rechnern im System.
 
 ![Resultat der Abfrage](../bilder/fleet7.jpg)
 
-Code:
+**Code:**
 
 ````sql
 SELECT name, version, install_location

@@ -48,5 +48,5 @@ Auf Ihrem System wurde OSQuery bereits installiert und konfiguriert (Best-Practi
 
 - Dokumentieren Sie das Config-File welches auf Ihrem System für OSQuery installiert ist [OSQuery Config-File](tech_daten/osQueryConfig_P4.md)
 - Dokumentieren Sie die Struktur des Config-Files [OSQuery Config-File](tech_daten/osQueryConfig_P4.md)
-- Führen Sie einen ersten Test mittels OSquery durch und dokumentieren Sie das Resultat [OSQuery Testen](tech_daten/osQueryTesten.md)
+- Führen Sie einen ersten Test mittels OSquery durch und dokumentieren Sie das Resultat [OSQuery Testen](tech_daten/osQueryTesten_P4.md)
 
